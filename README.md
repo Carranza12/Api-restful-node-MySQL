@@ -51,13 +51,13 @@ $ npm run dev
 a continuacion probaremos todos los metodos HTTP de nuestra API.
 
 # GET: Listar todos los empleados
-![Listar todos los empleados](https://github.com/Carranza12/API-REST-SpringBoot-MySQL/blob/master/assets-repo/get-clientes.PNG)
+![Listar todos los empleados](https://github.com/Carranza12/Api-restful-node-MySQL/blob/master/photos%20github/get%20employees.PNG)
 
 # GET: listar un empleado por su id
-![Listar un cliente](https://github.com/Carranza12/API-REST-SpringBoot-MySQL/blob/master/assets-repo/get-cliente.PNG)
+![Listar un cliente](https://github.com/Carranza12/Api-restful-node-MySQL/blob/master/photos%20github/get%20employee.PNG)
 # POST: Guardar un empleado
-![guardar un empleado](https://github.com/Carranza12/API-REST-SpringBoot-MySQL/blob/master/assets-repo/post-cliente.PNG)
+![guardar un empleado](https://github.com/Carranza12/Api-restful-node-MySQL/blob/master/photos%20github/post%20employee.PNG)
 # PUT: Actualizar los datos de un empleado
-![actualizar un cliente](https://github.com/Carranza12/API-REST-SpringBoot-MySQL/blob/master/assets-repo/put-cliente.PNG)
+![actualizar un cliente](https://github.com/Carranza12/Api-restful-node-MySQL/blob/master/photos%20github/put%20employee.PNG)
 # DELETE: Eliminar un empleado de la BD
-![eliminar un cliente](https://github.com/Carranza12/API-REST-SpringBoot-MySQL/blob/master/assets-repo/delete-cliente.PNG)
+![eliminar un cliente](https://github.com/Carranza12/Api-restful-node-MySQL/tree/master/photos%20github)
