@@ -5,7 +5,6 @@ const employeeRoute = require('./routes/employeesRoute');
 app.set('port', process.env.PORT || 3000);
 //middlewares
 app.use(express.json());
-
 //routes
 app.use(employeeRoute);
 //starting the server

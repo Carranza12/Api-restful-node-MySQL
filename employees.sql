@@ -8,5 +8,10 @@ CREATE TABLE employees (
     salary INT(11) DEFAULT NULL,
     PRIMARY KEY(id)
 );
+INSERT INTO employees VALUES 
+(1,'Juan Carmona',2200),
+(2,'Alexis Hernandez',2500),
+(3,'Alejandro Valenzuela',4670);
+
 
 SELECT * FROM company.employees;
