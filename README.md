@@ -60,4 +60,4 @@ a continuacion probaremos todos los metodos HTTP de nuestra API.
 # PUT: Actualizar los datos de un empleado
 ![actualizar un cliente](https://github.com/Carranza12/Api-restful-node-MySQL/blob/master/photos%20github/put%20employee.PNG)
 # DELETE: Eliminar un empleado de la BD
-![eliminar un cliente](https://github.com/Carranza12/Api-restful-node-MySQL/tree/master/photos%20github)
+![eliminar un cliente](https://github.com/Carranza12/Api-restful-node-MySQL/blob/master/photos%20github/delete%20employee.PNG)
