@@ -88,7 +88,7 @@ router.delete("/:id", (req, res) => {
     [id],
     (err, rows, fields) => {
       if (!err) {
-        res.status(100)
+        res.status(200)
         res.send("Empleado Eliminado correctamente.")
       } else {
         console.log(err);

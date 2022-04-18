@@ -7,7 +7,7 @@ Hola, esta es una aplicacion con el marco de trabajo de Express con node js y en
 Para poder ejecutar este proyecto es necesario tener instalado:<br><br>
 - MySQL - guia de instalacion: http://gieta.etsisi.upm.es/wp-content/uploads/2020/02/GuiaInstalacion_MySql_Community_8.0.19.pdf <br>
 - Node js - Link de descarga: https://nodejs.org/es/ <br>
-# Requisitos del proyecto Spring Boot: <br>
+# Requisitos del proyecto: <br>
 - MySQL 8.0 <br>
 - Node js <br>
 - Postman <br>
